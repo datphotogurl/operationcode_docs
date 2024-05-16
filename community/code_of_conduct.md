@@ -21,18 +21,18 @@ It would be impossible to list everything our team can do to create a more welco
 * Focusing on what is best for the community.
 * Showing empathy towards other community members.
 
-## Hateful Content and Harassement
+## Hateful Content and Harassment
 
 Operation Code is a place for people to connect and discuss issues related to getting the military community into rewarding technology careers. While we want people to be able to express themselves and their views, Operation Code will always ensure that conversations within our community remain productive, friendly, and empathetic. This means protecting our most vulnerable community members from hateful and harassing content by aggressively moderating such behavior. 
 Operation Code has a zero tolerance policy as it relates to posting material that is hateful, disparaging, threatening, discriminatory, objectifying, or harassing in any way. Harassment is defined by any content that is meant to bully, demean, intimidate, abuse, or degrade others and is strictly prohibited. 
-Moderators will take swift and decisive action including and up to permanently removing a community member from our slack community and any other Operation Code activities. This removal will be considered permanent and is not subject to review. 
+Moderators will take swift and decisive action including and up to permanently removing a community member from our Slack community and any other Operation Code activities. **This removal will be considered permanent and is not subject to review.** 
 
-## Unacceptable behavior
+## Unacceptable Behavior
 
 To help colleagues understand the kinds of behaviors that are illegal or run counter to the culture we seek to foster, we've listed the below actions. If you encounter behavior that runs contrary to this policy, please use the `/report` command in Slack, or contact moderators@operationcode.org.
 
 * The use of sexualized language or imagery and unwelcome sexual attention or advances
-* Trolling, insulting/derogatory comments, and personal or political attacks.
+* Trolling, instigating, insulting/derogatory comments, and personal or political attacks.
 * Public or private harassment
 * Publishing others' private information, such as a physical or electronic
   address, without explicit permission
@@ -41,7 +41,7 @@ To help colleagues understand the kinds of behaviors that are illegal or run cou
 * Repeatedly interrupting or talking over other people in meetings and discussions.
 * Negative or offensive remarks based on gender expression, mental illness, socioeconomic status or background, neuro(a)typicality, physical appearance, or body size.
 * Purposefully being argumentative or aggressive
-* Advertising of coding schools or personal projects within #general, or in an off-topic context
+* Advertising of external, non-approved organizations, coding schools or personal projects within #general, or in an off-topic context
 * Other conduct which could reasonably be considered inappropriate in a
   professional setting
 
@@ -60,8 +60,8 @@ We have seen the following topics distract from the mission of Operation Code, t
 
 ## Political Discussions
 
-Operation Code has a tremendous amount of value for many people seeking help to get into a rewarding career in the technology field. It is certainly not the place they come to engage in political discourse. As a result, Operation Code strongly discourages the community from engaging in discussions related to common political issues. This means discussing a certain political party, political candidate, or laws that do not impact the technology industry as a whole. 
-Moderators will allow some political discussions to occur when the conversation has a direct impact on technology related careers and other related issues that can have implications for our community. Where multiple viewpoints are present, we will always aim to provide aid to our members, and will not tolerate discussion that detracts from that focus.
+Operation Code has a tremendous amount of value for many people seeking help to get into a rewarding career in the technology field and growing in their professional and personal lives. It is certainly not the place they come to engage in political discourse. As a result, Operation Code strongly discourages the community from engaging in discussions related to common political issues. This means discussing a certain political party, political candidate, or laws that do not impact the technology industry or the labor workforce as a whole. 
+Moderators will allow some political discussions to occur when the conversation has a direct impact on technology related careers and other related workforce issues that can have implications for our community. Where multiple viewpoints are present, we will always aim to provide aid to our members, and will not tolerate discussion that detracts from that focus.
 These conversations will be allowed as long as they do not violate the guidelines we have outlined throughout the Code of Conduct.
 
 ## Our Responsibilities
